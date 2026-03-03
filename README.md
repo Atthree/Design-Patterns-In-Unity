@@ -18,6 +18,7 @@ Assets/
     ├── 5_Observer/        # Event-driven decoupled systems
     ├── 6_Command/         # Encapsulated actions (Undo/Redo mechanics)
     └── 7_Strategy/        # Interchangeable behaviors at runtime
+```
 
 🧩 Implemented Patterns & Use Cases
 Here is a breakdown of the patterns included in this project and the specific game development problems they solve:
